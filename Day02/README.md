@@ -161,3 +161,8 @@ Use context – Provide background information or examples when needed.
 Iterate and refine – If the output isn’t ideal, adjust the prompt.
 
 Use CoT for complex tasks – Step-by-step reasoning improves accuracy.
+.
+/
+/
+/
+
